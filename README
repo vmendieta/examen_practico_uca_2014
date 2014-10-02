@@ -1,7 +1,6 @@
-This is a clone of Infinite Mario, written in JavaScript for web browsers using HTML5.
 
-A good demonstration of what can be accomplished with the Canvas and Audio elements.
+Proyecto para examen práctico del Curso de SCM con GIT de la UCA - Septiembre/Octubre 2014
 
-Background music currently does not work in any browser besides Firefox 4. I think. There were too many problems with other browsers.
+Fuente: https://github.com/robertkleffner/mariohtml5
 
-Ported from the Java version by Notch (Markus Persson).
+Solo con fines educativos.
